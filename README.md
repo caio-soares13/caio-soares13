@@ -50,9 +50,10 @@ Abaixo seguem algumas tecnologias e ferramentas que utilizo!
 ---
 
 ### 📂 Repositórios em Destaque  
-- [**Projeto 1**][(https://github.com/BenHurFerreira/Projeto-MarcaP.git)] - Criação de api usando Spring Boot para [(https://marcapremates.com/)]
-- [**Projeto 2**][(https://github.com/Vitor0389/esdd.git)] - Trabalhos da disciplina Estrutura de Dados realizados na linguagem C 
+- [**API MarcaP**](https://github.com/BenHurFerreira/Projeto-MarcaP.git) - Criação de api usando Spring Boot para a [**Marca P Remates**](https://marcapremates.com/)
+- [**Estrutura de Dados**](https://github.com/Vitor0389/esdd.git) - Trabalhos da disciplina Estrutura de Dados realizados na linguagem C
+- [**API Restful**](https://github.com/caio-soares13/API_conserto.git) - Criação de api restful com Spring Boot para a disciplina Programação para Web
 ---
 
 ### 🎯 Contribuições  
-- Contribuição no repositório [(https://github.com/caio-vitor13/CTruco.git)] - Criação de um bot para utilizar o jogo truco desenvolvido pelo professor Lucas [(https://github.com/lucas-ifsp/CTruco)]
+- [**Bot Truco**](https://github.com/caio-vitor13/CTruco.git) - Criação de um bot para utilizar o jogo truco desenvolvido pelo professor Lucas [(https://github.com/lucas-ifsp/CTruco)]
