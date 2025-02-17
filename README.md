@@ -56,4 +56,4 @@ Abaixo seguem algumas tecnologias e ferramentas que utilizo!
 ---
 
 ### 🎯 Contribuições  
-- [**Bot Truco**](https://github.com/caio-vitor13/CTruco.git) - Criação de um bot para utilizar o jogo truco desenvolvido pelo professor Lucas [(https://github.com/lucas-ifsp/CTruco)]
+- [**Bot Truco**](https://github.com/caio-vitor13/CTruco.git) - Criação de um bot para utilizar o jogo truco desenvolvido pelo professor Lucas [**Jogo do Truco**](https://github.com/lucas-ifsp/CTruco)
