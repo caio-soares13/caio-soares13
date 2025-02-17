@@ -50,10 +50,9 @@ Abaixo seguem algumas tecnologias e ferramentas que utilizo!
 ---
 
 ### 📂 Repositórios em Destaque  
-- [**Projeto 1**](https://github.com/usuario/repositorio1) - Descrição breve do projeto  
-- [**Projeto 2**](https://github.com/usuario/repositorio2) - Descrição breve do projeto  
+- [**Projeto 1**]([https://github.com/usuario/repositorio1](https://github.com/BenHurFerreira/Projeto-MarcaP.git)) - Criação de api usando Spring Boot para [(https://marcapremates.com/)]
 
 ---
 
 ### 🎯 Contribuições  
-- Contribuição no repositório [**opensource-project**](https://github.com/opensource-project)  
+- Contribuição no repositório ([https://github.com/opensource-project](https://github.com/caio-vitor13/CTruco.git)) - Criação de um bot para utilizar o jogo truco desenvolvido pelo professor Lucas [(https://github.com/lucas-ifsp/CTruco)]
