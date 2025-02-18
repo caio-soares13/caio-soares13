@@ -1,5 +1,5 @@
 # Olá, me chamo Caio Vitor Soares
-![Foto de Perfil][(https://github.com/account)]  
+![Foto de Perfil](https://github.com/account)
 
 📧 **Contato:** caio.vitsoares@gmail.com
 💼 **Profissão:** Estudante de Engenharia de Software no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Campus São Carlos
