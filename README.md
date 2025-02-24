@@ -8,7 +8,7 @@
 
 ### 🚀 Sobre mim
 - 🎯 Interesses: Desenvolvimento Backend, Machine Learning e Sistemas embarcados.
-- 📚 Aprendendo atualmente: Spring Boot, Kotlin
+- 📚 Aprendendo atualmente: Spring Boot, Kotlin, JUnit.
   
 ---
 
